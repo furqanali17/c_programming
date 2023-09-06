@@ -1,0 +1,3 @@
+C:/Users/furqa/Desktop/University/MTU/Year 2 Sem 2/C Programming/Word Programming Game/cmake-build-debug/CMakeFiles/Word_Programming_Game.dir
+C:/Users/furqa/Desktop/University/MTU/Year 2 Sem 2/C Programming/Word Programming Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/furqa/Desktop/University/MTU/Year 2 Sem 2/C Programming/Word Programming Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
